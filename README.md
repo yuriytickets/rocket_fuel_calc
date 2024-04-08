@@ -11,3 +11,9 @@ Usage: $> ruby rocket.rb [options]
     -t, --test                       Test mode
 ```
 🚀
+# Example
+`ruby rocket.rb -m 20000 -r launch,9.8,land,1.3`
+```
+🚀 20000.0 Kg
+⛽︎Fuel needed: 15009.027049651544
+```
