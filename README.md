@@ -1,5 +1,4 @@
 ### Rocket Fuel Calculator 🚀
-![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
 - It is used to calculate fuel needed to launch/land a rocket using defined route
 
 # Usage
